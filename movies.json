@@ -10,7 +10,15 @@
     "Movie": "DJ",
     "Type": "Tollywood",
     "Actor": "Pooja Hegde"
+  },
+  {
+    "name": "Yash Mali",
+    "Movie": "Avengers-Infinity War",
+    "Type": "Hollywood",
+    "Actor": "Elizabeth Olsen"
+    
   }
+    
     
   
   ]
