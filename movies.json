@@ -182,12 +182,7 @@
 
 
 
- {
-    "name": "Rushikesh surya",
-    "Movie": "DDLJ",
-    "Type": "Bollywood",
-    "Actor": "kajol"
-  },
+
 
 
 
@@ -222,7 +217,14 @@
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-}
+},
+  {
+    "name": "Vishal",
+    "Movie": "race",
+    "Type": "Bollywood",
+    "Actor": "dipika"
+ 
+    }
 
   
 
