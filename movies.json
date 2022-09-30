@@ -145,7 +145,7 @@
     "Actor": "Yash"
 
     
- } 
+ } ,
 
   {
     "name": "A K",
@@ -177,6 +177,34 @@
 
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "A K",
+      "Movie": "Purple heart",
+      "Type": "Hollywood",
+      "Actor": "Sofia carson"
+   
+      },
+
+
+
 
 
 
@@ -189,7 +217,31 @@
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-},
+}
 
   
+
   ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
