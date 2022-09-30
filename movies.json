@@ -24,7 +24,14 @@
     "Type": "Bollywood",
     "Actor": "Hrithik Roshan"
     
- }
+ },
+ {
+    "name": "Gaurav Sonawane",
+    "Movie": "Brahmastra",
+    "Type": "Bollywood",
+    "Actor": "Ranbir Kapoor"
+    
+ },
     
   
   ]
