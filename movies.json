@@ -179,10 +179,7 @@
     "Type":"Bollywood",
     "Actor":"Hritik Roshan",
 
-
-
-
-
+},
 
 
 
@@ -193,41 +190,12 @@
     "Actor": "Alice"
   },
 
-{
-    "name": "pratik kolis",
-    "Movie": "heropanti",
-    "Type": "bollywood",
-    "Actor": "Aksay"
-  },
-
-
-    
- {
-    "name": "Rushikesh surya",
-    "Movie": "Bubble",
-    "Type": "Anime",
-    "Actor": "kyojiro"
-  },
-
-
-
  {
     "name": "Rushikesh surya",
     "Movie": "DDLJ",
     "Type": "Bollywood",
     "Actor": "kajol"
   },
-
-
-
-
-
-
-
-
-
-
-
 
     {
       "name": "A K",
@@ -237,14 +205,12 @@
    
       },
 
-
-
-
+{
     "name":"gaurav d",
   "Movie":"RRRr",
   "Type":"Tbllywood",
   "Actor":"Ram Charan",
-
+},
 
 
 
@@ -254,34 +220,16 @@
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-}
+
+},
 
   
-
-  ]
-
   {
     "name": "rushiiii",
     "Movie": "Your name",
     "Type": "anime",
     "Actor": "kakshi"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   {
@@ -291,5 +239,11 @@
     "Actor": "Elizabeth "
     
 },
+ {
+    "name": "me",
+    "Movie": "MS dhoni",
+    "Type": "Bollywood",
+    "Actor": "sushant"
+  },
 
-
+]
