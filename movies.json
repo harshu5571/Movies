@@ -65,9 +65,6 @@
     
  },
 
-
- 
-
  {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada 2",
@@ -118,9 +115,9 @@
     },
 {
     "name": "Shubham Ingole",
-    "Movie": "Hera Pheri",
+    "Movie": "Phir Hera Pheri",
     "Type": "Bollywood",
-    "Actor": "Sunil Shetty, Akshay Kumar, Paresh Rawal"
+    "Actor": "Akshay Kumar, Sunil Shetty, Paresh Rawal"
 
 
     },
@@ -131,7 +128,7 @@
     "Actor": "Akshay Kumar"
 
     
- } 
+ },
   
   {
     "name": "Gaurav Sonawane",
@@ -139,7 +136,9 @@
     "Type": "Bollywood",
     "Actor": "Siddharth Malhotra"
     
-  },   
+
+  }   
+
     
 
 
