@@ -205,7 +205,6 @@
    
       },
 
-
       {
          "name": "Yash Mali",
          "Movie": "iron man",
@@ -230,7 +229,7 @@
 
 
 
-=======
+
 {
     "name":"gaurav d",
   "Movie":"RRRr",
@@ -277,6 +276,13 @@
     "Movie": "Iron man",
     "Type": "Hollywood",
     "Actor": "RDJ"
-}
+},
+  
+   {
+    "name": "Harshad Kolekar",
+    "Movie": "Hum Apke Hai Kon",
+    "Type": "Bollywood",
+    "Actor": "Salman khan, Madhuri Dhikshit"
+  },
 
 ]
