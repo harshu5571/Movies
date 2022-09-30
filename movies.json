@@ -11,7 +11,7 @@
     "Type": "Tollywood",
     "Actor": "Pooja Hegde"
   },
-   {
+  {
     "name": "Yash Mali",
     "Movie": "Avengers-Infinity War",
     "Type": "Hollywood",
@@ -186,7 +186,12 @@
 
 
 
-
+  {
+    "name": "chupapi munyano",
+    "Movie": "Dora",
+    "Type": "Hollywood",
+    "Actor": "Alice"
+  },
 
 
 
@@ -247,13 +252,7 @@
 
 
 
-  {
-    "name": "Rushikesh",
-    "Movie": "jaan",
-    "Type": "bollywood",
-    "Actor": "Olsen"
-    
-},
+
 
 
 
