@@ -17,7 +17,7 @@
     "Type": "Hollywood",
     "Actor": "Elizabeth Olsen"
     
-  },
+},
  {
     "name": "Gaurav Sonawane",
     "Movie": "Vikram Vedha",
@@ -40,6 +40,7 @@
     
  },
 {
+
     "name": "Suyash Garud",
     "Movie": "Half Girlfriend",
     "Type": "Bollywood",
@@ -64,6 +65,27 @@
     
  },
 
+
+ 
+
+ {
+    "name": "Suyash Garud",
+    "Movie": "Hawaizaada 2",
+    "Type": "Bollywood",
+    "Actor": "Ayushman Khurrana"
+
+
+ },
+   {
+    "name": "Shubham Ingole",
+    "Movie": "Sholey",
+    "Type": "Bollywood",
+    "Actor": "Amjad khan, Amithab Bacchan, Dharmendr"
+    
+
+    
+ },
+ 
  {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada 2",
@@ -72,23 +94,38 @@
 
     
  },
- 
- 
+
+ {
+    "name": "Suyash Garud",
+    "Movie": "Batti Gul Meter Chalu",
+    "Type": "Bollywood",
+    "Actor": "Shahid Kapoor"
+    },
+    
+
 {
     "name": "Gaurav Sonawane",
     "Movie": "Dhadkan",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-
  },
 {
     "name": "Gaurav Sonawane",
     "Movie": "Good Newz",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-
- },
     
+    },
+{
+    "name": "Shubham Ingole",
+    "Movie": "Hera Pheri",
+    "Type": "Bollywood",
+    "Actor": "Sunil Shetty, Akshay Kumar, Paresh Rawal"
+
+    }
+
+
+
 
   
   ]
