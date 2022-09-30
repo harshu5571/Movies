@@ -38,16 +38,15 @@
     "Type": "Bollywood",
     "Actor": "Ayushmann Khurrana"
     
+ },
+{
+    "name": "Shubham Ingole",
+    "Movie": "Kaithi",
+    "Type": "tollywood",
+    "Actor": "Karthi"
+    
  }
 
- {
-    "name": "Suyash Garud",
-    "Movie": "Hawaizaada 2",
-    "Type": "Bollywood",
-    "Actor": "Ayushman Khurrana"
-
-
     
- }  
   
   ]
