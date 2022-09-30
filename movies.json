@@ -24,12 +24,29 @@
     "Type": "Bollywood",
     "Actor": "Hrithik Roshan"
     
- }
+ },
  {
+    "name": "Gaurav Sonawane",
+    "Movie": "Brahmastra",
+    "Type": "Bollywood",
+    "Actor": "Ranbir Kapoor"
+    
+ },
+{
     "name": "Suyash Garud",
     "Movie": "Hawaizaada",
     "Type": "Bollywood",
+    "Actor": "Ayushmann Khurrana"
+    
+ }
+
+ {
+    "name": "Suyash Garud",
+    "Movie": "Hawaizaada 2",
+    "Type": "Bollywood",
     "Actor": "Ayushman Khurrana"
+
+
     
  }  
   
