@@ -16,8 +16,8 @@
     "Movie": "Avengers-Infinity War",
     "Type": "Hollywood",
     "Actor": "Elizabeth Olsen"
-    
-  }
+  },
+  
  {
     "name": "Gaurav Sonawane",
     "Movie": "Vikram Vedha",
@@ -32,13 +32,22 @@
     "Actor": "Ranbir Kapoor"
     
  },
-{
+ 
+ {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada",
     "Type": "Bollywood",
     "Actor": "Ayushmann Khurrana"
     
  },
+{
+    "name": "Shubham Ingole",
+    "Movie": "Kaithi",
+    "Type": "tollywood",
+    "Actor": "Karthi"
+    
+ },
+
 {
     "name": "Gaurav Sonawane",
     "Movie": "OK Jaanu",
@@ -47,15 +56,14 @@
     
  },
 
- }
+ 
 
  {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada 2",
     "Type": "Bollywood",
     "Actor": "Ayushman Khurrana"
-
+}
     
- }  
   
   ]
