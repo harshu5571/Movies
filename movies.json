@@ -193,21 +193,11 @@
     "Actor": "Alice"
   },
 
-{
-    "name": "pratik kolis",
-    "Movie": "heropanti",
-    "Type": "bollywood",
-    "Actor": "Aksay"
-  },
+
 
 
     
- {
-    "name": "Rushikesh surya",
-    "Movie": "Bubble",
-    "Type": "Anime",
-    "Actor": "kyojiro"
-  },
+
 
 
 
@@ -254,19 +244,7 @@
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-}
-
-  
-
-  ]
-
-
-
-
-
-
-
-
+},
 
 
 
@@ -286,5 +264,12 @@
     "Actor": "Elizabeth "
     
 },
+ {
+    "name": "me",
+    "Movie": "MS dhoni",
+    "Type": "Bollywood",
+    "Actor": "sushant"
+  },
 
-
+]
+}
