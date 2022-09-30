@@ -108,7 +108,13 @@
     "Movie": "Dhadkan",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-
+ },
+{
+    "name": "Gaurav Sonawane",
+    "Movie": "Good Newz",
+    "Type": "Bollywood",
+    "Actor": "Akshay Kumar"
+    
     },
 {
     "name": "Shubham Ingole",
@@ -117,6 +123,7 @@
     "Actor": "Sunil Shetty, Akshay Kumar, Paresh Rawal"
 
     }
+
 
 
 
