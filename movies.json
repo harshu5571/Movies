@@ -17,7 +17,7 @@
     "Type": "Hollywood",
     "Actor": "Elizabeth Olsen"
     
-  }
+  },
  {
     "name": "Gaurav Sonawane",
     "Movie": "Vikram Vedha",
@@ -40,6 +40,23 @@
     
  },
 {
+    "name": "Suyash Garud",
+    "Movie": "Half Girlfriend",
+    "Type": "Bollywood",
+    "Actor": "Arjun Kapoor"
+    
+ },
+
+{
+    "name": "Shubham Ingole",
+    "Movie": "Kaithi",
+    "Type": "tollywood",
+    "Actor": "Karthi"
+    
+ },
+
+{
+
     "name": "Gaurav Sonawane",
     "Movie": "OK Jaanu",
     "Type": "Bollywood",
@@ -55,12 +72,17 @@
 
     
  },
+ 
+ 
 {
     "name": "Gaurav Sonawane",
     "Movie": "Dhadkan",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
+
+    }
+
     
- },
+
   
   ]
