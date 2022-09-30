@@ -205,26 +205,6 @@
    
       },
 
-
-      {
-         "name": "Yash Mali",
-         "Movie": "iron man",
-         "Type": "Hollywood",
-         "Actor": "RDJ"
-      }
-      {
-         "name": "Yash Mali",
-         "Movie": "iron man 2",
-         "Type": "Hollywood",
-         "Actor": "RDJ"
-      }
-
-
-
-
-
-
-=======
 {
     "name":"gaurav d",
   "Movie":"RRRr",
@@ -271,6 +251,13 @@
     "Movie": "Iron man",
     "Type": "Hollywood",
     "Actor": "RDJ"
-}
+},
+  
+   {
+    "name": "Harshad Kolekar",
+    "Movie": "Hum Apke Hai Kon",
+    "Type": "Bollywood",
+    "Actor": "Salman khan, Madhuri Dhikshit"
+  },
 
 ]
