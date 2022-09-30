@@ -108,13 +108,7 @@
     "Movie": "Dhadkan",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
- },
-{
-    "name": "Gaurav Sonawane",
-    "Movie": "Good Newz",
-    "Type": "Bollywood",
-    "Actor": "Akshay Kumar"
-    
+
     },
 {
     "name": "Shubham Ingole",
@@ -124,8 +118,13 @@
 
     }
 
-
-
+   {
+    "name": "Aditi Katale",
+    "Movie": "Sita Ramam",
+    "Type": "Toollywood",
+    "Actor": "Mrunal thakur"
+    
+ },
 
   
   ]
