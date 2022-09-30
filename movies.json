@@ -116,15 +116,26 @@
     "Type": "Bollywood",
     "Actor": "Sunil Shetty, Akshay Kumar, Paresh Rawal"
 
-    }
-
+},
    {
     "name": "Aditi Katale",
     "Movie": "Sita Ramam",
     "Type": "Toollywood",
     "Actor": "Mrunal thakur"
+ 
+    },
+ {
+    "name": "Suyash Garud",
+    "Movie": "Samrat Prithviraj",
+    "Type": "Bollywood",
+    "Actor": "Akshay Kumar"
+
     
- },
+ } 
+    
+    
+
+
 
   
   ]
