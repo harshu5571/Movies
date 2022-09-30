@@ -81,14 +81,7 @@
     
  },
  
- {
-    "name": "Suyash Garud",
-    "Movie": "Hawaizaada 2",
-    "Type": "Bollywood",
-    "Actor": "Ayushman Khurrana"
-
-    
- },
+ 
 {
     "name": "Gaurav Sonawane",
     "Movie": "Dhadkan",
@@ -96,6 +89,12 @@
     "Actor": "Akshay Kumar"
 
     }
+   {
+    "name": "Harshad Kolekar",
+    "Movie": "Hum Apke Hai Kon",
+    "Type": "Bollywood",
+    "Actor": "Salman Khan Madhuri Dikshit"
+  },
     
 
 
