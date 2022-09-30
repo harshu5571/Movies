@@ -65,9 +65,6 @@
     
  },
 
-
- 
-
  {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada 2",
@@ -108,7 +105,13 @@
     "Movie": "Dhadkan",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-
+ },
+{
+    "name": "Gaurav Sonawane",
+    "Movie": "Good Newz",
+    "Type": "Bollywood",
+    "Actor": "Akshay Kumar"
+    
     },
 {
     "name": "Shubham Ingole",
@@ -116,13 +119,7 @@
     "Type": "Bollywood",
     "Actor": "Akshay Kumar, Sunil Shetty, Paresh Rawal"
 
-},
-   {
-    "name": "Aditi Katale",
-    "Movie": "Sita Ramam",
-    "Type": "Toollywood",
-    "Actor": "Mrunal thakur"
- 
+
     },
  {
     "name": "Suyash Garud",
@@ -131,11 +128,18 @@
     "Actor": "Akshay Kumar"
 
     
- } 
+ },
+  
+  {
+    "name": "Gaurav Sonawane",
+    "Movie": "Shershaah",
+    "Type": "Bollywood",
+    "Actor": "Siddharth Malhotra"
     
 
-    
+  }   
 
+    
 
 
   
