@@ -94,6 +94,13 @@
 
     
  },
+  {
+    "name": "aditi Kantale",
+    "Movie": "3 Idiot",
+    "Type": "Bollywood",
+    "Actor": "Amir khan"
+ 
+    },
 
  {
     "name": "Suyash Garud",
@@ -112,9 +119,9 @@
     },
 {
     "name": "Shubham Ingole",
-    "Movie": "Phir Hera Pheri",
+    "Movie": "Hera Pheri",
     "Type": "Bollywood",
-    "Actor": "Akshay Kumar, Sunil Shetty, Paresh Rawal"
+    "Actor": "Sunil Shetty, Akshay Kumar, Paresh Rawal"
 
 },
    {
@@ -133,7 +140,6 @@
     
  } 
     
-
     
 
 
