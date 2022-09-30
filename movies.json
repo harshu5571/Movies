@@ -162,38 +162,40 @@
     "Actor": "Ajay devgan"
  
     },
+  
+
+{
+ "name":"Aditi kantale",
+  "Movie":"RRR",
+  "Type":"Tollywood",
+  "Actor":"Ram Charan",
 
 
 
+},
+  {
+    "name":"aditi Katale",
+    "Movie":"krish",
+    "Type":"Bollywood",
+    "Actor":"Hritik Roshan",
+
+},
 
 
 
+  {
+    "name": "chupapi munyano",
+    "Movie": "Dora",
+    "Type": "Hollywood",
+    "Actor": "Alice"
+  },
 
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ {
+    "name": "Rushikesh surya",
+    "Movie": "DDLJ",
+    "Type": "Bollywood",
+    "Actor": "kajol"
+  },
 
     {
       "name": "A K",
@@ -202,7 +204,6 @@
       "Actor": "Sofia carson"
    
       },
-
 
 
       {
@@ -223,6 +224,13 @@
 
 
 
+=======
+{
+    "name":"gaurav d",
+  "Movie":"RRRr",
+  "Type":"Tbllywood",
+  "Actor":"Ram Charan",
+},
 
 
 
@@ -232,31 +240,37 @@
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-}
+
+},
 
   
-
-  ]
-
-
-
-
-
-
+  {
+    "name": "rushiiii",
+    "Movie": "Your name",
+    "Type": "anime",
+    "Actor": "kakshi"
+  },
 
 
+  {
+    "name": "Rushi",
+    "Movie": "Avengers",
+    "Type": "Hollywood",
+    "Actor": "Elizabeth "
+    
+},
+ {
+    "name": "me",
+    "Movie": "MS dhoni",
+    "Type": "Bollywood",
+    "Actor": "sushant"
+  },
 
+{
+  "name": "yash",
+    "Movie": "Iron man",
+    "Type": "Hollywood",
+    "Actor": "RDJ"
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+]
