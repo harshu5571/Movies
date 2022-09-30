@@ -38,6 +38,15 @@
     "Type": "Bollywood",
     "Actor": "Ayushmann Khurrana"
     
+ },
+{
+    "name": "Gaurav Sonawane",
+    "Movie": "OK Jaanu",
+    "Type": "Bollywood",
+    "Actor": "Aditya Roy Kapoor"
+    
+ },
+
  }
 
  {
@@ -45,7 +54,6 @@
     "Movie": "Hawaizaada 2",
     "Type": "Bollywood",
     "Actor": "Ayushman Khurrana"
-
 
     
  }  
